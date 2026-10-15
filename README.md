@@ -14,8 +14,7 @@ This repository showcases a comprehensive collection of GIS and remote sensing m
 - Data sources, processing workflows, and code will be added soon.
 - If you find these maps useful or use them in your research, please ⭐ give a star and share your feedback!
 - **Contact:**
-  - 📧 Email: [your-email@example.com]
-  - 💼 LinkedIn: [your-linkedin-profile-url]
+- 💼 LinkedIn: [www.linkedin.com/in/mnaveed186]
 - **License:** [MIT / CC BY 4.0] - See LICENSE file for details
 
 ---
@@ -65,7 +64,7 @@ This repository showcases a comprehensive collection of GIS and remote sensing m
 
 This Digital Elevation Model provides a detailed representation of terrain elevation across the study region. The map was generated using [data source, e.g., SRTM 30m / ASTER GDEM] and processed to highlight elevation gradients, valley systems, and mountainous terrain. DEM analysis forms the foundation for hydrological modeling, slope analysis, and terrain characterization.
 
-**Data & Tools:** [Data source: SRTM/ASTER] | [Tools: QGIS, ArcGIS Pro, Google Earth Engine]
+**Data & Tools:** [Data source: SRTM/ASTER] | [Tools: ArcGIS Pro, Google Earth Engine]
 
 [⬆ Back to top](#gis--remote-sensing-map-collection)
 
@@ -77,7 +76,7 @@ This Digital Elevation Model provides a detailed representation of terrain eleva
 
 A comprehensive topographic map illustrating the physical landscape features including elevation contours, terrain relief, and major landforms. This map provides essential context for understanding the geomorphological characteristics of the region and serves as a base layer for spatial analysis.
 
-**Data & Tools:** [Data source: topographic survey / DEM derivatives] | [Tools: QGIS, ArcGIS Pro]
+**Data & Tools:** [Data source: topographic survey / DEM derivatives] | [Tools: ARCMAP, ArcGIS Pro]
 
 [⬆ Back to top](#gis--remote-sensing-map-collection)
 
@@ -113,7 +112,7 @@ Slope gradient analysis for the Potohar Plateau region, classifying terrain stee
 
 Detailed slope classification map for the Swat River Basin highlighting gradient variations across the watershed. The analysis identifies areas prone to landslides, suitable for agriculture, and critical for hydrological modeling. Color-coded classification enables rapid assessment of terrain characteristics.
 
-**Data & Tools:** [Data source: SRTM DEM] | [Tools: QGIS, ArcGIS Pro, Python spatial analysis]
+**Data & Tools:** [Data source: SRTM DEM] | [Tools: ArcGIS Pro]
 
 [⬆ Back to top](#gis--remote-sensing-map-collection)
 
@@ -125,7 +124,7 @@ Detailed slope classification map for the Swat River Basin highlighting gradient
 
 Terrain aspect (orientation) map showing the compass direction that slopes face. Aspect analysis is crucial for understanding solar radiation distribution, microclimate variations, vegetation patterns, and agricultural productivity. North-facing and south-facing slopes exhibit different environmental characteristics.
 
-**Data & Tools:** [Data source: DEM-derived] | [Tools: QGIS, ArcGIS Pro]
+**Data & Tools:** [Data source: DEM-derived] | [Tools: QGIS]
 
 [⬆ Back to top](#gis--remote-sensing-map-collection)
 
@@ -137,7 +136,7 @@ Terrain aspect (orientation) map showing the compass direction that slopes face.
 
 Regional-scale aspect analysis map covering a broader area in Pakistan. This map reveals the directional orientation of terrain across diverse physiographic regions, supporting climate studies, agricultural zoning, and renewable energy site selection (particularly for solar installations).
 
-**Data & Tools:** [Data source: SRTM DEM] | [Tools: QGIS, ArcGIS Pro, Google Earth Engine]
+**Data & Tools:** [Data source: SRTM DEM] | [Tools: QGIS,Google Earth Engine]
 
 [⬆ Back to top](#gis--remote-sensing-map-collection)
 
@@ -163,7 +162,7 @@ Comprehensive map of the Swat River Basin delineating the watershed boundary, st
 
 Drainage density map quantifying the total length of stream channels per unit area. High drainage density indicates fine-textured drainage networks, often associated with impermeable surfaces, steep slopes, or high precipitation. This metric is fundamental for watershed characterization and runoff prediction.
 
-**Data & Tools:** [Data source: extracted from DEM] | [Tools: QGIS, ArcGIS Pro, hydrological modeling tools]
+**Data & Tools:** [Data source: extracted from DEM] | [Tools: QGIS, ArcGIS Pro,HEC-HMS]
 
 [⬆ Back to top](#gis--remote-sensing-map-collection)
 
@@ -175,7 +174,7 @@ Drainage density map quantifying the total length of stream channels per unit ar
 
 Detailed watershed analysis for Gilgit-Baltistan, a mountainous region with complex hydrology and glacial influences. The map identifies sub-basins, stream orders, and watershed boundaries critical for water resource planning, hydropower development, and climate change impact assessment in high-altitude environments.
 
-**Data & Tools:** [Data source: DEM, satellite imagery] | [Tools: ArcGIS Pro, QGIS, watershed modeling tools]
+**Data & Tools:** [Data source: DEM, satellite imagery] | [Tools:ARCMAP, watershed modeling tools]
 
 [⬆ Back to top](#gis--remote-sensing-map-collection)
 
@@ -187,7 +186,7 @@ Detailed watershed analysis for Gilgit-Baltistan, a mountainous region with comp
 
 Map depicting the density of linear features or structural alignments in the landscape. This analysis may represent geological lineaments, fault lines, or anthropogenic linear features. High alignment density can indicate tectonic activity, fracture zones, or infrastructure networks.
 
-**Data & Tools:** [Data source: remote sensing imagery, geological surveys] | [Tools: QGIS, ArcGIS Pro, remote sensing analysis]
+**Data & Tools:** [Data source: remote sensing imagery, geological surveys] | [Tools:ARCMAP, remote sensing analysis]
 
 [⬆ Back to top](#gis--remote-sensing-map-collection)
 
@@ -225,7 +224,7 @@ Soil moisture map for Punjab showing spatial variability in water content across
 
 Comprehensive soil type classification map for Punjab based on texture, composition, and pedological characteristics. Different soil types exhibit varying water retention capacity, fertility, and suitability for different crops. This map is foundational for agricultural land use planning and soil conservation strategies.
 
-**Data & Tools:** [Data source: soil survey reports, remote sensing classification] | [Tools: ArcGIS Pro, QGIS, supervised classification]
+**Data & Tools:** [Data source: soil survey reports, remote sensing classification] | [Tools: ArcGIS Pro, Google Earth Engine]
 
 [⬆ Back to top](#gis--remote-sensing-map-collection)
 
@@ -237,7 +236,7 @@ Comprehensive soil type classification map for Punjab based on texture, composit
 
 Soil classification map specific to the Potohar Plateau region, an area known for its unique rainfed agricultural system. The map categorizes soils based on their physical and chemical properties, guiding sustainable land management and crop selection for this water-scarce region.
 
-**Data & Tools:** [Data source: field surveys, satellite imagery] | [Tools: QGIS, ArcGIS Pro]
+**Data & Tools:** [Data source: field surveys, satellite imagery] | [Tools: ARCMAP, ArcGIS Pro]
 
 [⬆ Back to top](#gis--remote-sensing-map-collection)
 
@@ -251,7 +250,7 @@ Soil classification map specific to the Potohar Plateau region, an area known fo
 
 Current land use and land cover (LULC) classification for the Potohar region as of 2021. The map identifies major land cover types including agriculture, forests, urban areas, barren land, and water bodies. LULC analysis is essential for monitoring environmental change, urban expansion, and agricultural intensification.
 
-**Data & Tools:** [Data source: Landsat 8/9, Sentinel-2] | [Tools: Google Earth Engine, QGIS, supervised classification (Random Forest/SVM)]
+**Data & Tools:** [Data source: Landsat 8/9, Sentinel-2] | [Tools: Google Earth Engine, ARCGIS PRo, supervised classification (Random Forest)]
 
 [⬆ Back to top](#gis--remote-sensing-map-collection)
 
@@ -263,7 +262,7 @@ Current land use and land cover (LULC) classification for the Potohar region as 
 
 Spatial distribution of crop production patterns highlighting agricultural productivity zones. This map integrates yield data, cropping intensity, and land use patterns to identify high-productivity areas and regions requiring agricultural interventions or support.
 
-**Data & Tools:** [Data source: agricultural statistics, NDVI time series, crop masks] | [Tools: Google Earth Engine, QGIS, ArcGIS Pro]
+**Data & Tools:** [Data source: agricultural statistics, NDVI time series, crop masks] | [Tools: Google Earth Engine,ArcGIS Pro]
 
 [⬆ Back to top](#gis--remote-sensing-map-collection)
 
@@ -275,7 +274,7 @@ Spatial distribution of crop production patterns highlighting agricultural produ
 
 Evaporative Stress Index (ESI) map indicating water stress conditions across the landscape. ESI is derived from thermal remote sensing and measures the ratio of actual to potential evapotranspiration. Low ESI values indicate drought stress, making this map valuable for early warning systems and irrigation management.
 
-**Data & Tools:** [Data source: MODIS/Landsat thermal data, meteorological inputs] | [Tools: Google Earth Engine, Python, QGIS]
+**Data & Tools:** [Data source: MODIS/Landsat thermal data, meteorological inputs] | [Tools: Google Earth Engine, QGIS]
 
 [⬆ Back to top](#gis--remote-sensing-map-collection)
 
@@ -289,7 +288,7 @@ Evaporative Stress Index (ESI) map indicating water stress conditions across the
 
 Map showing the Area of Interest (AOI) or study region boundary with geographic context. This reference map provides the spatial extent and location of the research area, helping viewers understand the geographic scope of the analysis and its position within Pakistan.
 
-**Data & Tools:** [Data source: administrative boundaries, GPS coordinates] | [Tools: QGIS, ArcGIS Pro]
+**Data & Tools:** [Data source: administrative boundaries, GPS coordinates] | [Tools:ArcGIS Pro]
 
 [⬆ Back to top](#gis--remote-sensing-map-collection)
 
@@ -301,17 +300,17 @@ Map showing the Area of Interest (AOI) or study region boundary with geographic 
 
 Geological map of the Potohar Plateau showing rock types, geological formations, and structural features. Understanding the underlying geology is essential for groundwater exploration, mineral resource assessment, geotechnical investigations, and understanding landscape evolution.
 
-**Data & Tools:** [Data source: Geological Survey of Pakistan, field mapping, remote sensing] | [Tools: QGIS, ArcGIS Pro]
+**Data & Tools:** [Data source: Geological Survey of Pakistan, field mapping, remote sensing] | [Tools: QGIS]
 
 [⬆ Back to top](#gis--remote-sensing-map-collection)
 
 ---
 
-#### 21. Metropolitan Area
+#### 21. TRANSIT MAP OF ISLAMABAD
 
 <a href="Img/Metro.png"><img src="Img/Metro.png" width="700"></a>
 
-Map depicting a metropolitan area with urban infrastructure, transportation networks, and built-up regions. Urban mapping supports city planning, infrastructure development, population analysis, and monitoring urban sprawl and its environmental impacts.
+An integrated route map of the Rawalpindi-Islamabad Metrobus network and its surrounding transportation lines. This urban mapping framework supports smart city planning and infrastructure development. It also plays a key role in analyzing population trends, tracking urban sprawl, and monitoring environmental impacts.
 
 **Data & Tools:** [Data source: high-resolution satellite imagery, OpenStreetMap] | [Tools: QGIS, ArcGIS Pro, Google Earth Engine]
 
@@ -319,15 +318,13 @@ Map depicting a metropolitan area with urban infrastructure, transportation netw
 
 ---
 
-## 🙏 Thanks for Visiting!
+
 
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out:
-
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [your-linkedin-profile-url]
+- 💼 LinkedIn: [www.linkedin.com/in/mnaveed186]
 
 **Muhammad Naveed**  
-GIS Analyst & Remote Sensing Specialist
+
 
 ---
 
